@@ -1,0 +1,56 @@
+{
+  "_from": "file:/tmp/d-117620-7710-1txhbpd.cpfp/package.tgz",
+  "_id": "gruvbox@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha1-rHuhsJZWsZ6Gg5pDL+o/XX9YrcU=",
+  "_location": "/gruvbox",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "file",
+    "where": "/tmp/apm-install-dir-117620-7710-3pker0.ckjj3",
+    "raw": "/tmp/d-117620-7710-1txhbpd.cpfp/package.tgz",
+    "rawSpec": "/tmp/d-117620-7710-1txhbpd.cpfp/package.tgz",
+    "saveSpec": "file:/tmp/d-117620-7710-1txhbpd.cpfp/package.tgz",
+    "fetchSpec": "/tmp/d-117620-7710-1txhbpd.cpfp/package.tgz"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "/tmp/d-117620-7710-1txhbpd.cpfp/package.tgz",
+  "_spec": "/tmp/d-117620-7710-1txhbpd.cpfp/package.tgz",
+  "_where": "/tmp/apm-install-dir-117620-7710-3pker0.ckjj3",
+  "bugs": {
+    "url": "https://github.com/caleb/gruvbox-syntax-atom/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A Gruvbox theme for Atom that aims to be just a little groovier",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/caleb/gruvbox-syntax-atom#readme",
+  "keywords": [
+    "dark",
+    "green",
+    "orange",
+    "syntax"
+  ],
+  "license": "MIT",
+  "name": "gruvbox",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caleb/gruvbox-syntax-atom.git"
+  },
+  "theme": "syntax",
+  "version": "1.0.7",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

@@ -1,0 +1,10 @@
+2017/07/24-12:40:44.918 8454 Reusing MANIFEST /home/notclerk/.config/chromium/Default/Session Storage/MANIFEST-000001
+2017/07/24-12:40:44.918 8454 Recovering log #84
+2017/07/24-12:40:44.918 8454 Reusing old log /home/notclerk/.config/chromium/Default/Session Storage/000084.log 
+2017/07/24-12:41:07.491 8454 Current memtable full; waiting...
+2017/07/24-12:41:07.494 8595 Level-0 table #89: started
+2017/07/24-12:41:07.501 8595 Level-0 table #89: 66292 bytes OK
+2017/07/24-12:41:07.502 8595 Delete type=0 #84
+2017/07/24-12:41:07.502 8595 Level-0 table #91: started
+2017/07/24-12:41:07.504 8595 Level-0 table #91: 31979 bytes OK
+2017/07/24-12:41:07.505 8595 Delete type=0 #88

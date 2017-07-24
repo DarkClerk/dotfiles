@@ -1,0 +1,80 @@
+{
+  "_from": "file:/tmp/d-117623-2709-iss97f.pipvq/package.tgz",
+  "_id": "color-picker@2.2.5",
+  "_inBundle": false,
+  "_integrity": "sha1-ksKyP/BcoiKAP78pVdzky5aF79M=",
+  "_location": "/color-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "file",
+    "where": "/tmp/apm-install-dir-117623-2709-17oyig.z3sfb",
+    "raw": "/tmp/d-117623-2709-iss97f.pipvq/package.tgz",
+    "rawSpec": "/tmp/d-117623-2709-iss97f.pipvq/package.tgz",
+    "saveSpec": "file:/tmp/d-117623-2709-iss97f.pipvq/package.tgz",
+    "fetchSpec": "/tmp/d-117623-2709-iss97f.pipvq/package.tgz"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "/tmp/d-117623-2709-iss97f.pipvq/package.tgz",
+  "_spec": "/tmp/d-117623-2709-iss97f.pipvq/package.tgz",
+  "_where": "/tmp/apm-install-dir-117623-2709-17oyig.z3sfb",
+  "bugs": {
+    "url": "https://github.com/thomaslindstrom/color-picker/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Right click or press CMD-SHIFT-C/CTRL-ALT-C to open it.",
+  "engines": {
+    "atom": ">=1.2.4"
+  },
+  "homepage": "https://github.com/thomaslindstrom/color-picker",
+  "keywords": [
+    "colors",
+    "design",
+    "ui"
+  ],
+  "license": "MIT",
+  "main": "./lib/ColorPicker",
+  "name": "color-picker",
+  "private": true,
+  "providedServices": {
+    "color-picker": {
+      "versions": {
+        "1.0.0": "provideColorPicker"
+      }
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomaslindstrom/color-picker.git"
+  },
+  "version": "2.2.5",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".coffee": [
+        "lib/ColorPicker-view.coffee",
+        "lib/ColorPicker.coffee",
+        "lib/extensions/Alpha.coffee",
+        "lib/extensions/Arrow.coffee",
+        "lib/extensions/Body.coffee",
+        "lib/extensions/Color.coffee",
+        "lib/extensions/Definition.coffee",
+        "lib/extensions/Format.coffee",
+        "lib/extensions/Hue.coffee",
+        "lib/extensions/Return.coffee",
+        "lib/extensions/Saturation.coffee",
+        "lib/modules/Convert.coffee",
+        "lib/modules/Emitter.coffee",
+        "lib/modules/SmartColor.coffee",
+        "lib/modules/SmartVariable.coffee"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

@@ -1,0 +1,18 @@
+2017/07/24-12:38:39.565 7535 Reusing MANIFEST /home/notclerk/.config/chromium/Default/Session Storage/MANIFEST-000001
+2017/07/24-12:38:39.565 7535 Recovering log #79
+2017/07/24-12:38:39.565 7535 Reusing old log /home/notclerk/.config/chromium/Default/Session Storage/000079.log 
+2017/07/24-12:39:03.621 7920 Level-0 table #83: started
+2017/07/24-12:39:03.628 7920 Level-0 table #83: 80616 bytes OK
+2017/07/24-12:39:03.629 7920 Delete type=0 #79
+2017/07/24-12:39:34.910 7920 Level-0 table #85: started
+2017/07/24-12:39:34.914 7920 Level-0 table #85: 108634 bytes OK
+2017/07/24-12:39:34.915 7920 Delete type=0 #82
+2017/07/24-12:39:34.915 7920 Compacting 4@0 + 1@1 files
+2017/07/24-12:39:35.022 7920 Generated table #86@0: 2325 keys, 1082901 bytes
+2017/07/24-12:39:35.022 7920 Compacted 4@0 + 1@1 files => 1082901 bytes
+2017/07/24-12:39:35.025 7920 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/07/24-12:39:35.025 7920 Delete type=2 #85
+2017/07/24-12:39:35.025 7920 Delete type=2 #78
+2017/07/24-12:39:35.025 7920 Delete type=2 #83
+2017/07/24-12:39:35.025 7920 Delete type=2 #80
+2017/07/24-12:39:35.025 7920 Delete type=2 #76

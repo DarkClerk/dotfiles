@@ -1,0 +1,622 @@
+
+<aside class="secondary addon-reviews c">
+      <div>
+        <span class="stars stars-5" title="Rated 5 out of 5 stars">Rated 5 out of 5 stars</span>
+
+      Average
+    </div>
+      <div>
+    <ul class="grouped_ratings" data-total="54">
+                <li class="c">  <span class="stars stars-5" title="Rated 5 out of 5 stars">Rated 5 out of 5 stars</span>
+
+        <div class="rating_bar" data-num-reviews="43">
+          <span class="bar" style="width:79.0%">
+            <span class="num_ratings">43</span>
+          </span>
+        </div>
+      </li>
+                <li class="c">  <span class="stars stars-4" title="Rated 4 out of 5 stars">Rated 4 out of 5 stars</span>
+
+        <div class="rating_bar" data-num-reviews="10">
+          <span class="bar" style="width:18.0%">
+            <span class="num_ratings">10</span>
+          </span>
+        </div>
+      </li>
+                <li class="c">  <span class="stars stars-3" title="Rated 3 out of 5 stars">Rated 3 out of 5 stars</span>
+
+        <div class="rating_bar" data-num-reviews="1">
+          <span class="bar" style="width:1.0%">
+            <span class="num_ratings">1</span>
+          </span>
+        </div>
+      </li>
+                <li class="c">  <span class="stars stars-2" title="Rated 2 out of 5 stars">Rated 2 out of 5 stars</span>
+
+        <div class="rating_bar" data-num-reviews="0">
+          <span class="bar" style="width:0.0%">
+            <span class="num_ratings">0</span>
+          </span>
+        </div>
+      </li>
+                <li class="c">  <span class="stars stars-1" title="Rated 1 out of 5 stars">Rated 1 out of 5 stars</span>
+
+        <div class="rating_bar" data-num-reviews="0">
+          <span class="bar" style="width:0.0%">
+            <span class="num_ratings">0</span>
+          </span>
+        </div>
+      </li>
+        </ul>
+  </div>
+      <div>
+      <a class="button" id="add-review" href="/en-US/firefox/addon/blackfox-v1/reviews/add">Write a review</a>
+    </div>
+    <a id="report-abuse" href="/en-US/firefox/addon/57531/abuse/"
+     class="abuse-image">Report Abuse</a>
+</aside>
+
+<section id="reviews" class="primary island c">
+  <h2>Reviews</h2>
+                  <div class="review">
+        <h3>
+                      <b>Огонь!</b>
+                      <span class="stars stars-5" title="Rated 5 out of 5 stars">Rated 5 out of 5 stars</span>
+
+        </h3>
+        <p class="byline">
+          by <a href="/en-US/firefox/user/lexcher/" title="Александр">Александр</a> on January  7, 2017          &middot;
+          <a class="permalink"
+             href="/en-US/firefox/addon/blackfox-v1/reviews/837414/">permalink</a>
+        </p>
+        <p class="description">Очень эффектно смотрится!</p>
+              </div>
+          <div class="review">
+        <h3>
+                      <b>God Damn this is great!</b>
+                      <span class="stars stars-5" title="Rated 5 out of 5 stars">Rated 5 out of 5 stars</span>
+
+        </h3>
+        <p class="byline">
+          by <a href="/en-US/firefox/user/frontview/" title="Trev">Trev</a> on December  6, 2016          &middot;
+          <a class="permalink"
+             href="/en-US/firefox/addon/blackfox-v1/reviews/832921/">permalink</a>
+        </p>
+        <p class="description">This is the slickest skin I have ever seen.  The design is done by someone who has put some thought into it!  I created an account just to write this review, because the design and is awsome.  I have been looking for something like this for a while and now I have found it.  Looks sharp!!!</p>
+                  <a class="more-info" href="/en-US/firefox/addon/blackfox-v1/reviews/833074/">
+            Show the developer's reply to this review</a>
+              </div>
+          <div class="review">
+        <h3>
+                      <b>This is the Black/Red Theme you are looking for ...</b>
+                      <span class="stars stars-5" title="Rated 5 out of 5 stars">Rated 5 out of 5 stars</span>
+
+        </h3>
+        <p class="byline">
+          by <a href="/en-US/firefox/user/anonymous-fb5a6062095f6b3c69742feb53c0db6b/" title="Anonymous user fb5a60">Anonymous user fb5a60</a> on September  8, 2016          &middot;
+          <a class="permalink"
+             href="/en-US/firefox/addon/blackfox-v1/reviews/818162/">permalink</a>
+        </p>
+        <p class="description">Couldn&#39;t ask for a better design. Only question I have is whether you have done any gnome/kde themes like this one??</p>
+                  <a class="more-info" href="/en-US/firefox/addon/blackfox-v1/reviews/818200/">
+            Show the developer's reply to this review</a>
+              </div>
+              <p>
+        <a class="more-info" href="/en-US/firefox/addon/blackfox-v1/reviews/">
+          See all 54 user reviews        </a>
+      </p>
+      
+</section>
+
+<aside id="related" class="secondary metadata c">
+            <h3>Related Categories</h3>
+      <ul>
+                <li>
+          <a href="/en-us/firefox/complete-themes/compact">
+            Compact
+          </a>
+        </li>
+                <li>
+          <a href="/en-us/firefox/complete-themes/modern">
+            Modern
+          </a>
+        </li>
+              </ul>
+        <div class="clearboth">
+  <h3 class="compact-bottom">Tags</h3>
+
+  <div id="tagbox">
+    
+  <ul class="addon-tags nojs" id="addonid-57531">
+          <li id="taglink-13727" class="tag">
+      <a href="/en-us/firefox/tag/animated" class="tagitem">
+      animated
+    </a>
+  </li>
+          <li id="taglink-3169" class="tag">
+      <a href="/en-us/firefox/tag/black" class="tagitem">
+      black
+    </a>
+  </li>
+          <li id="taglink-318" class="tag">
+      <a href="/en-us/firefox/tag/dark" class="tagitem">
+      dark
+    </a>
+  </li>
+      </ul>
+
+  </div>
+</div>
+
+</aside>
+
+  <section class="primary island c">
+          <section id="collections-grid">
+        <h2>Part of these Collections</h2>
+        <ul class="listing-grid c cols-3">
+    <section>
+      <li>
+      <div class="hovercard collection addon">
+        <a href="/en-us/firefox/collections/rob64rock/662d873a-d719-ea5c-0723-70104d/">
+          <div class="icon">
+                          <img src="https://addons.cdn.mozilla.net/static/img/icons/collection.png" alt="">
+                      </div>
+          <div class="summary">
+            <h3>Dark Theme Shuffle</h3>
+            <p class="desc">These add-ons will enhance the visual appearance of the browser with a collection of dark themes and the added ability of random theme switching...</p>
+          </div>
+        </a>
+        <div class="more">
+                    <span>42</span> add-ons          &middot;
+                    <span>233</span> followers        </div>
+      </div>
+    </li>
+      <li>
+      <div class="hovercard collection addon">
+        <a href="/en-us/firefox/collections/mozilla/featured-add-ons/">
+          <div class="icon">
+                          <img src="https://addons.cdn.mozilla.net/static/img/icons/collection.png" alt="">
+                      </div>
+          <div class="summary">
+            <h3>Featured Add-ons</h3>
+            <p class="desc">None</p>
+          </div>
+        </a>
+        <div class="more">
+                    <span>123</span> add-ons          &middot;
+                    <span>196</span> followers        </div>
+      </div>
+    </li>
+      <li>
+      <div class="hovercard collection addon">
+        <a href="/en-us/firefox/collections/AliciaStender/streamline-simplify-customise/">
+          <div class="icon">
+                          <img src="https://addons.cdn.mozilla.net/static/img/icons/collection.png" alt="">
+                      </div>
+          <div class="summary">
+            <h3>Streamline, Simplify, Customise</h3>
+            <p class="desc">TWEAK: Tabs • UI • Bookmarks menu • Sidebar/statusbar • Multi-row tab scrolling • Numbered tabs • Recover form data after crashes • Undo closed tabs • Hide tabs/windows • MERGE MULTIPLE WINDOWS</p>
+          </div>
+        </a>
+        <div class="more">
+                    <span>226</span> add-ons          &middot;
+                    <span>142</span> followers        </div>
+      </div>
+    </li>
+    </section>
+</ul>
+
+      </section>
+                <section id="author-addons">
+        <h2>
+                      Other add-ons by <a href="/en-us/firefox/user/zigboom/" title="Zigboom">Zigboom</a>                  </h2>
+        <ul class="listing-grid c cols-3">
+    <section>
+      <li>
+      <div class="addon hovercard">
+    <div class="icon">
+      <a href="/en-us/firefox/addon/lavafox-v1/?src=dp-dl-othersby">
+            <img src="https://addons.cdn.mozilla.net/user-media/addon_icons/11/11861-32.png?modified=1495056019" alt="Icon for LavaFox V2">
+            </a>
+    </div>
+    <div class="summary">
+      <a href="/en-us/firefox/addon/lavafox-v1/?src=dp-dl-othersby">
+        <h3>LavaFox V2</h3>
+                              <div class="category more-info">Compact</div>
+                        </a>
+        <div class="vital">
+            
+<span class="rating">
+              <span class="stars stars-5" title="Rated 5 out of 5 stars">Rated 5 out of 5 stars</span>
+
+      <a href="/en-us/firefox/addon/lavafox-v1/reviews/">(205)</a>
+      </span>
+      </div>
+
+          </div>
+  <div class="more">
+    
+<div class="install-shell">
+<div class="install featuredaddon"
+       data-addon="11861"
+  data-icon="https://addons.cdn.mozilla.net/user-media/addon_icons/11/11861-32.png?modified=1495056019"
+  data-developers="/en-us/firefox/addon/lavafox-v1/developers"
+  data-versions="/en-us/firefox/addon/11861/versions/"
+  data-name="LavaFox V2"
+  
+  data-min="4.0"
+  data-max="56.0"
+  data-is-compatible="false"
+  data-is-compatible-app="true"
+  data-compat-overrides="[]"
+>
+  <p class="install-button">
+                        <a class="button download "
+  data-hash="sha256:0753d2ad3ca4560293c3beba635eca242b6da094ab84987cd1787188ac34883d"
+      href="/firefox/downloads/latest/lavafox-v1/addon-11861-latest.xpi?src=dp-hc-othersby"
+  >
+  <b></b>
+  <span>
+    Download Now
+      </span>
+</a>
+      </p>
+</div> 
+
+
+      <div class="d2c-reasons-popup popup">
+      <p>This add-on is not compatible with your version of Firefox because of the following:</p>
+      <ul></ul>
+    </div>
+  <p>
+    <a id="downloadAnyway" hidden="true">Download Anyway</a>
+</p>
+</div> 
+    <span class="addon-summary">
+      LavaFox - A dark and hot theme for Firefox. <br/>Fully skinned and animated.
+    </span>
+    <div class="byline">
+      by <a href="/en-us/firefox/user/zigboom/" title="Zigboom">Zigboom</a>    </div>
+          <div class="vitals">
+          <div class="vital">
+                  <span class="adu">
+                    14,191 users        </span>
+            </div>
+
+      </div>
+      </div>
+</div>
+    </li>
+      <li>
+      <div class="addon hovercard">
+    <div class="icon">
+      <a href="/en-us/firefox/addon/lavafox-v1-blue/?src=dp-dl-othersby">
+            <img src="https://addons.cdn.mozilla.net/user-media/addon_icons/12/12533-32.png?modified=1495041620" alt="Icon for LavaFox V2-Blue">
+            </a>
+    </div>
+    <div class="summary">
+      <a href="/en-us/firefox/addon/lavafox-v1-blue/?src=dp-dl-othersby">
+        <h3>LavaFox V2-Blue</h3>
+                              <div class="category more-info">Compact</div>
+                        </a>
+        <div class="vital">
+            
+<span class="rating">
+              <span class="stars stars-5" title="Rated 5 out of 5 stars">Rated 5 out of 5 stars</span>
+
+      <a href="/en-us/firefox/addon/lavafox-v1-blue/reviews/">(92)</a>
+      </span>
+      </div>
+
+          </div>
+  <div class="more">
+    
+<div class="install-shell">
+<div class="install "
+       data-addon="12533"
+  data-icon="https://addons.cdn.mozilla.net/user-media/addon_icons/12/12533-32.png?modified=1495041620"
+  data-developers="/en-us/firefox/addon/lavafox-v1-blue/developers"
+  data-versions="/en-us/firefox/addon/12533/versions/"
+  data-name="LavaFox V2-Blue"
+  
+  data-min="4.0"
+  data-max="56.0"
+  data-is-compatible="false"
+  data-is-compatible-app="true"
+  data-compat-overrides="[]"
+>
+  <p class="install-button">
+                        <a class="button download "
+  data-hash="sha256:088a8398821991393278572c8e58fc26d1ab5f7b5d7fe6135132456304b6a73e"
+      href="/firefox/downloads/latest/lavafox-v1-blue/addon-12533-latest.xpi?src=dp-hc-othersby"
+  >
+  <b></b>
+  <span>
+    Download Now
+      </span>
+</a>
+      </p>
+</div> 
+
+
+      <div class="d2c-reasons-popup popup">
+      <p>This add-on is not compatible with your version of Firefox because of the following:</p>
+      <ul></ul>
+    </div>
+  <p>
+    <a id="downloadAnyway" hidden="true">Download Anyway</a>
+</p>
+</div> 
+    <span class="addon-summary">
+      LavaFox - Blue version.<br/>A dark and hot theme for Firefox .<br/>Fully skinned and animated.
+    </span>
+    <div class="byline">
+      by <a href="/en-us/firefox/user/zigboom/" title="Zigboom">Zigboom</a>    </div>
+          <div class="vitals">
+          <div class="vital">
+                  <span class="adu">
+                    5,502 users        </span>
+            </div>
+
+      </div>
+      </div>
+</div>
+    </li>
+      <li>
+      <div class="addon hovercard">
+    <div class="icon">
+      <a href="/en-us/firefox/addon/lavafox-v1-green/?src=dp-dl-othersby">
+            <img src="https://addons.cdn.mozilla.net/user-media/addon_icons/57/57532-32.png?modified=1495041620" alt="Icon for LavaFox V2-Green">
+            </a>
+    </div>
+    <div class="summary">
+      <a href="/en-us/firefox/addon/lavafox-v1-green/?src=dp-dl-othersby">
+        <h3>LavaFox V2-Green</h3>
+                              <div class="category more-info">Compact</div>
+                        </a>
+        <div class="vital">
+            
+<span class="rating">
+              <span class="stars stars-5" title="Rated 5 out of 5 stars">Rated 5 out of 5 stars</span>
+
+      <a href="/en-us/firefox/addon/lavafox-v1-green/reviews/">(29)</a>
+      </span>
+      </div>
+
+          </div>
+  <div class="more">
+    
+<div class="install-shell">
+<div class="install "
+       data-addon="57532"
+  data-icon="https://addons.cdn.mozilla.net/user-media/addon_icons/57/57532-32.png?modified=1495041620"
+  data-developers="/en-us/firefox/addon/lavafox-v1-green/developers"
+  data-versions="/en-us/firefox/addon/57532/versions/"
+  data-name="LavaFox V2-Green"
+  
+  data-min="4.0"
+  data-max="56.0"
+  data-is-compatible="false"
+  data-is-compatible-app="true"
+  data-compat-overrides="[]"
+>
+  <p class="install-button">
+                        <a class="button download "
+  data-hash="sha256:0221de7873b3a7915a1930e5f16cac7abd0ebb1706cdfaba835a930fc1b36dd5"
+      href="/firefox/downloads/latest/lavafox-v1-green/addon-57532-latest.xpi?src=dp-hc-othersby"
+  >
+  <b></b>
+  <span>
+    Download Now
+      </span>
+</a>
+      </p>
+</div> 
+
+
+      <div class="d2c-reasons-popup popup">
+      <p>This add-on is not compatible with your version of Firefox because of the following:</p>
+      <ul></ul>
+    </div>
+  <p>
+    <a id="downloadAnyway" hidden="true">Download Anyway</a>
+</p>
+</div> 
+    <span class="addon-summary">
+      LavaFox - Green version.<br/>A dark &amp; Hot theme for Firefox.<br/>Fully skinned and animated.
+    </span>
+    <div class="byline">
+      by <a href="/en-us/firefox/user/zigboom/" title="Zigboom">Zigboom</a>    </div>
+          <div class="vitals">
+          <div class="vital">
+                  <span class="adu">
+                    2,817 users        </span>
+            </div>
+
+      </div>
+      </div>
+</div>
+    </li>
+      <li>
+      <div class="addon hovercard">
+    <div class="icon">
+      <a href="/en-us/firefox/addon/lavafox-v1-purple/?src=dp-dl-othersby">
+            <img src="https://addons.cdn.mozilla.net/user-media/addon_icons/57/57533-32.png?modified=1495056020" alt="Icon for LavaFox V2-Purple">
+            </a>
+    </div>
+    <div class="summary">
+      <a href="/en-us/firefox/addon/lavafox-v1-purple/?src=dp-dl-othersby">
+        <h3>LavaFox V2-Purple</h3>
+                              <div class="category more-info">Compact</div>
+                        </a>
+        <div class="vital">
+            
+<span class="rating">
+              <span class="stars stars-5" title="Rated 5 out of 5 stars">Rated 5 out of 5 stars</span>
+
+      <a href="/en-us/firefox/addon/lavafox-v1-purple/reviews/">(37)</a>
+      </span>
+      </div>
+
+          </div>
+  <div class="more">
+    
+<div class="install-shell">
+<div class="install "
+       data-addon="57533"
+  data-icon="https://addons.cdn.mozilla.net/user-media/addon_icons/57/57533-32.png?modified=1495056020"
+  data-developers="/en-us/firefox/addon/lavafox-v1-purple/developers"
+  data-versions="/en-us/firefox/addon/57533/versions/"
+  data-name="LavaFox V2-Purple"
+  
+  data-min="4.0"
+  data-max="56.0"
+  data-is-compatible="false"
+  data-is-compatible-app="true"
+  data-compat-overrides="[]"
+>
+  <p class="install-button">
+                        <a class="button download "
+  data-hash="sha256:4ac18a263d4bd995b2735415cf49ffde0de000eb1f1937ee1edea1504c232a11"
+      href="/firefox/downloads/latest/lavafox-v1-purple/addon-57533-latest.xpi?src=dp-hc-othersby"
+  >
+  <b></b>
+  <span>
+    Download Now
+      </span>
+</a>
+      </p>
+</div> 
+
+
+      <div class="d2c-reasons-popup popup">
+      <p>This add-on is not compatible with your version of Firefox because of the following:</p>
+      <ul></ul>
+    </div>
+  <p>
+    <a id="downloadAnyway" hidden="true">Download Anyway</a>
+</p>
+</div> 
+    <span class="addon-summary">
+      LavaFox - Purple version.<br/>A dark and hot theme for Firefox.<br/>Fully skinned and animated.
+    </span>
+    <div class="byline">
+      by <a href="/en-us/firefox/user/zigboom/" title="Zigboom">Zigboom</a>    </div>
+          <div class="vitals">
+          <div class="vital">
+                  <span class="adu">
+                    2,653 users        </span>
+            </div>
+
+      </div>
+      </div>
+</div>
+    </li>
+      <li>
+      <div class="addon hovercard">
+    <div class="icon">
+      <a href="/en-us/firefox/addon/blackfox-v1-blue/?src=dp-dl-othersby">
+            <img src="https://addons.cdn.mozilla.net/user-media/addon_icons/191/191969-32.png?modified=1495056020" alt="Icon for BlackFox V2-Blue">
+            </a>
+    </div>
+    <div class="summary">
+      <a href="/en-us/firefox/addon/blackfox-v1-blue/?src=dp-dl-othersby">
+        <h3>BlackFox V2-Blue</h3>
+                              <div class="category more-info">Compact</div>
+                        </a>
+        <div class="vital">
+            
+<span class="rating">
+              <span class="stars stars-5" title="Rated 5 out of 5 stars">Rated 5 out of 5 stars</span>
+
+      <a href="/en-us/firefox/addon/blackfox-v1-blue/reviews/">(41)</a>
+      </span>
+      </div>
+
+          </div>
+  <div class="more">
+    
+<div class="install-shell">
+<div class="install "
+       data-addon="191969"
+  data-icon="https://addons.cdn.mozilla.net/user-media/addon_icons/191/191969-32.png?modified=1495056020"
+  data-developers="/en-us/firefox/addon/blackfox-v1-blue/developers"
+  data-versions="/en-us/firefox/addon/191969/versions/"
+  data-name="BlackFox V2-Blue"
+  
+  data-min="4.0"
+  data-max="56.0"
+  data-is-compatible="false"
+  data-is-compatible-app="true"
+  data-compat-overrides="[]"
+>
+  <p class="install-button">
+                        <a class="button download "
+  data-hash="sha256:39df733febaef68e2a4992d48bb8091dae18a3da9655272dbe171e0a830e9a9f"
+      href="/firefox/downloads/latest/blackfox-v1-blue/addon-191969-latest.xpi?src=dp-hc-othersby"
+  >
+  <b></b>
+  <span>
+    Download Now
+      </span>
+</a>
+      </p>
+</div> 
+
+
+      <div class="d2c-reasons-popup popup">
+      <p>This add-on is not compatible with your version of Firefox because of the following:</p>
+      <ul></ul>
+    </div>
+  <p>
+    <a id="downloadAnyway" hidden="true">Download Anyway</a>
+</p>
+</div> 
+    <span class="addon-summary">
+      BlackFox - Blue version. <br/>A dark and hot theme for Firefox.<br/>Fully skinned and animated.
+    </span>
+    <div class="byline">
+      by <a href="/en-us/firefox/user/zigboom/" title="Zigboom">Zigboom</a>    </div>
+          <div class="vitals">
+          <div class="vital">
+                  <span class="adu">
+                    3,093 users        </span>
+            </div>
+
+      </div>
+      </div>
+</div>
+    </li>
+    </section>
+</ul>
+      </section>
+      </section>
+
+ Y�!m�      Yo��Yo��=��       @    :https://addons.mozilla.org/en-US/firefox/addon/blackfox-v1/more necko:classified 1 strongly-framed 1 security-info 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 request-method GET request-X-Requested-With XMLHttpRequest request-User-Agent Mozilla/5.0 (X11; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0 response-head HTTP/1.1 200 OK
+Content-Security-Policy: script-src https://ssl.google-analytics.com/ga.js https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://www.paypalobjects.com/js/external/dg.js https://addons.cdn.mozilla.net; style-src 'self' 'unsafe-inline' https://addons.cdn.mozilla.net; default-src 'self'; frame-src 'self' https://ic.paypal.com https://paypal.com https://www.google.com/recaptcha/ https://www.paypal.com; child-src 'self' https://ic.paypal.com https://paypal.com https://www.google.com/recaptcha/ https://www.paypal.com; img-src 'self' data: blob: https://www.paypal.com/webapps/checkout/ https://www.paypal.com/webapps/hermes/api/logger https://ssl.google-analytics.com https://addons.cdn.mozilla.net https://static.addons.mozilla.net https://sentry.prod.mozaws.net; media-src https://videos.cdn.mozilla.net; object-src 'none'; connect-src 'self' https://sentry.prod.mozaws.net; font-src 'self' https://addons.cdn.mozilla.net; form-action 'self' https://developer.mozilla.org; base-uri 'self' https://addons.mozilla.org; report-uri /__cspreport__
+Content-Type: text/html; charset=utf-8
+Date: Wed, 19 Jul 2017 12:49:48 GMT
+Etag: "7cf7118eb41659ad0deb2be21fd3e757"
+Public-Key-Pins: max-age=5184000; includeSubDomains; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="
+Server: nginx
+Strict-Transport-Security: max-age=31536000
+Vary: X-Requested-With, User-Agent
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+x-xss-protection: 1; mode=block
+Content-Length: 20500
+ original-response-headers Content-Security-Policy: script-src https://ssl.google-analytics.com/ga.js https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://www.paypalobjects.com/js/external/dg.js https://addons.cdn.mozilla.net; style-src 'self' 'unsafe-inline' https://addons.cdn.mozilla.net; default-src 'self'; frame-src 'self' https://ic.paypal.com https://paypal.com https://www.google.com/recaptcha/ https://www.paypal.com; child-src 'self' https://ic.paypal.com https://paypal.com https://www.google.com/recaptcha/ https://www.paypal.com; img-src 'self' data: blob: https://www.paypal.com/webapps/checkout/ https://www.paypal.com/webapps/hermes/api/logger https://ssl.google-analytics.com https://addons.cdn.mozilla.net https://static.addons.mozilla.net https://sentry.prod.mozaws.net; media-src https://videos.cdn.mozilla.net; object-src 'none'; connect-src 'self' https://sentry.prod.mozaws.net; font-src 'self' https://addons.cdn.mozilla.net; form-action 'self' https://developer.mozilla.org; base-uri 'self' https://addons.mozilla.org; report-uri /__cspreport__
+Content-Type: text/html; charset=utf-8
+Date: Wed, 19 Jul 2017 12:49:48 GMT
+Etag: "7cf7118eb41659ad0deb2be21fd3e757"
+Public-Key-Pins: max-age=5184000; includeSubDomains; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="
+Server: nginx
+Strict-Transport-Security: max-age=31536000
+Vary: X-Requested-With
+Vary: User-Agent
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+x-xss-protection: 1; mode=block
+Content-Length: 20500
+Connection: keep-alive
+ uncompressed-len 0 net-response-time-onstart 355 net-response-time-onstop 357   P

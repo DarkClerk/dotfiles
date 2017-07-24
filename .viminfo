@@ -1,0 +1,272 @@
+# Этот файл viminfo автоматически создан Vim 8.0.
+# Его можно (осторожно!) редактировать.
+
+# Viminfo version
+|1,4
+
+# Значение опции 'encoding' в момент записи файла
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Командная строка, история (начиная от свежего к старому):
+:wq
+|2,0,1500829950,,"wq"
+:q
+|2,0,1500507178,,"q"
+
+# Строка поиска, история (начиная от свежего к старому):
+
+# Выражение, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+
+# Debug Line, история (начиная от свежего к старому):
+
+# Регистры:
+
+# Глобальные отметки:
+'0  6  0  ~/Документы/panel/profile
+|4,48,6,0,1500829950,"~/Документы/panel/profile"
+'1  25  6  ~/.config/bspwm/bspwmrc
+|4,49,25,6,1500510544,"~/.config/bspwm/bspwmrc"
+'2  2  67  ~/.xinitrc
+|4,50,2,67,1500507273,"~/.xinitrc"
+'3  2  67  ~/.xinitrc
+|4,51,2,67,1500507269,"~/.xinitrc"
+'4  1  0  ~/NativeProjects/.xinitrc
+|4,52,1,0,1500507178,"~/NativeProjects/.xinitrc"
+'5  95  0  ~/NativeProjects/file.c
+|4,53,95,0,1500506482,"~/NativeProjects/file.c"
+
+# Список прыжков (сначала более свежие):
+-'  6  0  ~/Документы/panel/profile
+|4,39,6,0,1500829950,"~/Документы/panel/profile"
+-'  1  0  ~/Документы/panel/profile
+|4,39,1,0,1500829944,"~/Документы/panel/profile"
+-'  25  6  ~/.config/bspwm/bspwmrc
+|4,39,25,6,1500510544,"~/.config/bspwm/bspwmrc"
+-'  25  6  ~/.config/bspwm/bspwmrc
+|4,39,25,6,1500510544,"~/.config/bspwm/bspwmrc"
+-'  1  0  ~/.config/bspwm/bspwmrc
+|4,39,1,0,1500510517,"~/.config/bspwm/bspwmrc"
+-'  1  0  ~/.config/bspwm/bspwmrc
+|4,39,1,0,1500510517,"~/.config/bspwm/bspwmrc"
+-'  2  67  ~/.xinitrc
+|4,39,2,67,1500507273,"~/.xinitrc"
+-'  2  67  ~/.xinitrc
+|4,39,2,67,1500507273,"~/.xinitrc"
+-'  2  67  ~/.xinitrc
+|4,39,2,67,1500507273,"~/.xinitrc"
+-'  2  67  ~/.xinitrc
+|4,39,2,67,1500507273,"~/.xinitrc"
+-'  2  67  ~/.xinitrc
+|4,39,2,67,1500507269,"~/.xinitrc"
+-'  2  67  ~/.xinitrc
+|4,39,2,67,1500507269,"~/.xinitrc"
+-'  2  67  ~/.xinitrc
+|4,39,2,67,1500507269,"~/.xinitrc"
+-'  2  67  ~/.xinitrc
+|4,39,2,67,1500507269,"~/.xinitrc"
+-'  1  0  ~/.xinitrc
+|4,39,1,0,1500507182,"~/.xinitrc"
+-'  1  0  ~/.xinitrc
+|4,39,1,0,1500507182,"~/.xinitrc"
+-'  1  0  ~/.xinitrc
+|4,39,1,0,1500507182,"~/.xinitrc"
+-'  1  0  ~/.xinitrc
+|4,39,1,0,1500507182,"~/.xinitrc"
+-'  1  0  ~/.xinitrc
+|4,39,1,0,1500507182,"~/.xinitrc"
+-'  1  0  ~/.xinitrc
+|4,39,1,0,1500507182,"~/.xinitrc"
+-'  1  0  ~/.xinitrc
+|4,39,1,0,1500507182,"~/.xinitrc"
+-'  1  0  ~/.xinitrc
+|4,39,1,0,1500507182,"~/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  1  0  ~/NativeProjects/.xinitrc
+|4,39,1,0,1500507178,"~/NativeProjects/.xinitrc"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  95  0  ~/NativeProjects/file.c
+|4,39,95,0,1500506482,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+-'  1  0  ~/NativeProjects/file.c
+|4,39,1,0,1500506464,"~/NativeProjects/file.c"
+
+# История местных отметок (от более свежих к старым):
+
+> ~/Документы/panel/profile
+	*	1500829948	0
+	"	6	0
+
+> ~/.config/bspwm/bspwmrc
+	*	1500510542	0
+	"	25	6
+	^	25	7
+	.	25	6
+	+	24	0
+	+	25	6
+
+> ~/.xinitrc
+	*	1500507270	0
+	"	2	67
+	^	2	68
+	.	2	67
+	+	2	67
+
+> ~/NativeProjects/.xinitrc
+	*	1500507171	0
+	"	1	0
+
+> ~/NativeProjects/file.c
+	*	1500506480	0
+	"	95	0

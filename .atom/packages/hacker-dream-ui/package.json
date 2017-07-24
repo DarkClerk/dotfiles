@@ -1,0 +1,56 @@
+{
+  "_from": "file:/tmp/d-117620-7663-trggi0.75a8/package.tgz",
+  "_id": "hacker-dream-ui@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-mHv+PzV2cVNQFGo+KkinaExOr4s=",
+  "_location": "/hacker-dream-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "file",
+    "where": "/tmp/apm-install-dir-117620-7663-1kefuuj.y4fcf",
+    "raw": "/tmp/d-117620-7663-trggi0.75a8/package.tgz",
+    "rawSpec": "/tmp/d-117620-7663-trggi0.75a8/package.tgz",
+    "saveSpec": "file:/tmp/d-117620-7663-trggi0.75a8/package.tgz",
+    "fetchSpec": "/tmp/d-117620-7663-trggi0.75a8/package.tgz"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "/tmp/d-117620-7663-trggi0.75a8/package.tgz",
+  "_spec": "/tmp/d-117620-7663-trggi0.75a8/package.tgz",
+  "_where": "/tmp/apm-install-dir-117620-7663-1kefuuj.y4fcf",
+  "bugs": {
+    "url": "https://github.com/xeroxyde/hacker-dream-ui/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "User interface part of Hacker Dream theme.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/xeroxyde/hacker-dream-ui#readme",
+  "keywords": [
+    "ui",
+    "dark",
+    "black",
+    "term"
+  ],
+  "license": "MIT",
+  "name": "hacker-dream-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeroxyde/hacker-dream-ui.git"
+  },
+  "theme": "ui",
+  "version": "1.1.0",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

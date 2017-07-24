@@ -1,0 +1,173 @@
+[    53.437] 
+X.Org X Server 1.19.3
+Release Date: 2017-03-15
+[    53.437] X Protocol Version 11, Revision 0
+[    53.437] Build Operating System: Linux 4.9.11-1-ARCH x86_64 
+[    53.437] Current Operating System: Linux LizardSquad 4.11.9-1-ARCH #1 SMP PREEMPT Wed Jul 5 18:23:08 CEST 2017 x86_64
+[    53.437] Kernel command line: BOOT_IMAGE=/vmlinuz-linux root=UUID=201712c9-7751-4702-bbe9-2ad7d58cdcd4 rw
+[    53.437] Build Date: 07 April 2017  05:42:48PM
+[    53.437]  
+[    53.437] Current version of pixman: 0.34.0
+[    53.437] 	Before reporting problems, check http://wiki.x.org
+	to make sure that you have the latest version.
+[    53.437] Markers: (--) probed, (**) from config file, (==) default setting,
+	(++) from command line, (!!) notice, (II) informational,
+	(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+[    53.437] (==) Log file: "/home/notclerk/.local/share/xorg/Xorg.1.log", Time: Wed Jul 19 05:49:26 2017
+[    53.437] (==) Using system config directory "/usr/share/X11/xorg.conf.d"
+[    53.437] (==) No Layout section.  Using the first Screen section.
+[    53.437] (==) No screen section available. Using defaults.
+[    53.437] (**) |-->Screen "Default Screen Section" (0)
+[    53.437] (**) |   |-->Monitor "<default monitor>"
+[    53.437] (==) No monitor specified for screen "Default Screen Section".
+	Using a default monitor configuration.
+[    53.438] (==) Automatically adding devices
+[    53.438] (==) Automatically enabling devices
+[    53.438] (==) Automatically adding GPU devices
+[    53.438] (==) Automatically binding GPU devices
+[    53.438] (==) Max clients allowed: 256, resource mask: 0x1fffff
+[    53.438] (WW) The directory "/usr/share/fonts/Type1/" does not exist.
+[    53.438] 	Entry deleted from font path.
+[    53.438] (WW) `fonts.dir' not found (or not valid) in "/usr/share/fonts/100dpi/".
+[    53.438] 	Entry deleted from font path.
+[    53.438] 	(Run 'mkfontdir' on "/usr/share/fonts/100dpi/").
+[    53.438] (WW) `fonts.dir' not found (or not valid) in "/usr/share/fonts/75dpi/".
+[    53.438] 	Entry deleted from font path.
+[    53.438] 	(Run 'mkfontdir' on "/usr/share/fonts/75dpi/").
+[    53.438] (==) FontPath set to:
+	/usr/share/fonts/misc/,
+	/usr/share/fonts/TTF/,
+	/usr/share/fonts/OTF/
+[    53.438] (==) ModulePath set to "/usr/lib/xorg/modules"
+[    53.438] (II) The server relies on udev to provide the list of input devices.
+	If no devices become available, reconfigure udev or disable AutoAddDevices.
+[    53.438] (II) Loader magic: 0x822d60
+[    53.438] (II) Module ABI versions:
+[    53.438] 	X.Org ANSI C Emulation: 0.4
+[    53.438] 	X.Org Video Driver: 23.0
+[    53.438] 	X.Org XInput driver : 24.1
+[    53.438] 	X.Org Server Extension : 10.0
+[    53.439] (++) using VT number 1
+
+[    53.439] (--) controlling tty is VT number 1, auto-enabling KeepTty
+[    53.439] (EE) systemd-logind: TakeControl failed: Device or resource busy
+[    53.440] (II) xfree86: Adding drm device (/dev/dri/card0)
+[    53.440] (EE) /dev/dri/card0: failed to set DRM interface version 1.4: Permission denied
+[    53.444] (--) PCI:*(0:0:15:0) 15ad:0405:15ad:0405 rev 0, Mem @ 0xe8000000/134217728, 0xfe000000/8388608, I/O @ 0x00001070/16, BIOS @ 0x????????/131072
+[    53.444] (WW) Open ACPI failed (/var/run/acpid.socket) (No such file or directory)
+[    53.444] (II) LoadModule: "glx"
+[    53.444] (II) Loading /usr/lib/xorg/modules/extensions/libglx.so
+[    53.445] (II) Module glx: vendor="X.Org Foundation"
+[    53.445] 	compiled for 1.19.3, module version = 1.0.0
+[    53.445] 	ABI class: X.Org Server Extension, version 10.0
+[    53.445] (==) Matched vmware as autoconfigured driver 0
+[    53.445] (==) Matched modesetting as autoconfigured driver 1
+[    53.445] (==) Matched fbdev as autoconfigured driver 2
+[    53.445] (==) Matched vesa as autoconfigured driver 3
+[    53.445] (==) Assigned the driver to the xf86ConfigLayout
+[    53.445] (II) LoadModule: "vmware"
+[    53.445] (WW) Warning, couldn't open module vmware
+[    53.445] (II) UnloadModule: "vmware"
+[    53.445] (II) Unloading vmware
+[    53.445] (EE) Failed to load module "vmware" (module does not exist, 0)
+[    53.445] (II) LoadModule: "modesetting"
+[    53.445] (II) Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+[    53.445] (II) Module modesetting: vendor="X.Org Foundation"
+[    53.445] 	compiled for 1.19.3, module version = 1.19.3
+[    53.445] 	Module class: X.Org Video Driver
+[    53.445] 	ABI class: X.Org Video Driver, version 23.0
+[    53.445] (II) LoadModule: "fbdev"
+[    53.445] (WW) Warning, couldn't open module fbdev
+[    53.445] (II) UnloadModule: "fbdev"
+[    53.445] (II) Unloading fbdev
+[    53.445] (EE) Failed to load module "fbdev" (module does not exist, 0)
+[    53.445] (II) LoadModule: "vesa"
+[    53.445] (WW) Warning, couldn't open module vesa
+[    53.445] (II) UnloadModule: "vesa"
+[    53.446] (II) Unloading vesa
+[    53.446] (EE) Failed to load module "vesa" (module does not exist, 0)
+[    53.446] (II) modesetting: Driver for Modesetting Kernel Drivers: kms
+[    53.446] (WW) Falling back to old probe method for modesetting
+[    53.446] (II) modeset(1): using default device
+[    53.446] (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+[    53.446] (EE) Screen 0 deleted because of no matching config section.
+[    53.446] (II) UnloadModule: "modesetting"
+[    53.446] (II) modeset(0): Creating default Display subsection in Screen section
+	"Default Screen Section" for depth/fbbpp 24/32
+[    53.446] (==) modeset(0): Depth 24, (==) framebuffer bpp 32
+[    53.446] (DB) xf86MergeOutputClassOptions unsupported bus type 0
+[    53.446] (==) modeset(0): RGB weight 888
+[    53.446] (==) modeset(0): Default visual is TrueColor
+[    53.446] (II) Loading sub module "glamoregl"
+[    53.446] (II) LoadModule: "glamoregl"
+[    53.446] (II) Loading /usr/lib/xorg/modules/libglamoregl.so
+[    53.450] (II) Module glamoregl: vendor="X.Org Foundation"
+[    53.450] 	compiled for 1.19.3, module version = 1.0.0
+[    53.450] 	ABI class: X.Org ANSI C Emulation, version 0.4
+[    53.450] (II) glamor: OpenGL accelerated X.org driver based.
+[    53.483] (II) glamor: EGL version 1.4 (DRI2):
+[    53.483] EGL_MESA_drm_image required.
+[    53.483] (EE) modeset(0): glamor initialization failed
+[    53.483] (II) modeset(0): ShadowFB: preferred NO, enabled NO
+[    53.483] (II) modeset(0): Output Virtual-1 has no monitor section
+[    53.483] (II) modeset(0): Output Virtual-2 has no monitor section
+[    53.483] (II) modeset(0): Output Virtual-3 has no monitor section
+[    53.484] (II) modeset(0): Output Virtual-4 has no monitor section
+[    53.484] (II) modeset(0): Output Virtual-5 has no monitor section
+[    53.484] (II) modeset(0): Output Virtual-6 has no monitor section
+[    53.484] (II) modeset(0): Output Virtual-7 has no monitor section
+[    53.484] (II) modeset(0): Output Virtual-8 has no monitor section
+[    53.484] (II) modeset(0): EDID for output Virtual-1
+[    53.484] (II) modeset(0): Printing probed modes for output Virtual-1
+[    53.484] (II) modeset(0): Modeline "preferred"x60.0   42.75  800 850 900 950  600 650 700 750 -hsync +vsync (45.0 kHz eP)
+[    53.484] (II) modeset(0): Modeline "1600x1200"x60.0  162.00  1600 1664 1856 2160  1200 1201 1204 1250 +hsync +vsync (75.0 kHz e)
+[    53.484] (II) modeset(0): Modeline "1680x1050"x60.0  146.25  1680 1784 1960 2240  1050 1053 1059 1089 -hsync +vsync (65.3 kHz e)
+[    53.484] (II) modeset(0): Modeline "1400x1050"x60.0  121.75  1400 1488 1632 1864  1050 1053 1057 1089 -hsync +vsync (65.3 kHz e)
+[    53.484] (II) modeset(0): Modeline "1280x1024"x60.0  108.00  1280 1328 1440 1688  1024 1025 1028 1066 +hsync +vsync (64.0 kHz e)
+[    53.484] (II) modeset(0): Modeline "1440x900"x59.9  106.50  1440 1520 1672 1904  900 903 909 934 -hsync +vsync (55.9 kHz e)
+[    53.484] (II) modeset(0): Modeline "1280x960"x60.0  108.00  1280 1376 1488 1800  960 961 964 1000 +hsync +vsync (60.0 kHz e)
+[    53.484] (II) modeset(0): Modeline "1360x768"x60.0   85.50  1360 1424 1536 1792  768 771 777 795 +hsync +vsync (47.7 kHz e)
+[    53.484] (II) modeset(0): Modeline "1280x800"x59.8   83.50  1280 1352 1480 1680  800 803 809 831 +hsync -vsync (49.7 kHz e)
+[    53.484] (II) modeset(0): Modeline "1152x864"x75.0  108.00  1152 1216 1344 1600  864 865 868 900 +hsync +vsync (67.5 kHz e)
+[    53.484] (II) modeset(0): Modeline "1280x768"x59.9   79.50  1280 1344 1472 1664  768 771 778 798 -hsync +vsync (47.8 kHz e)
+[    53.484] (II) modeset(0): Modeline "1024x768"x60.0   65.00  1024 1048 1184 1344  768 771 777 806 -hsync -vsync (48.4 kHz e)
+[    53.484] (II) modeset(0): Modeline "800x600"x60.3   40.00  800 840 968 1056  600 601 605 628 +hsync +vsync (37.9 kHz e)
+[    53.484] (II) modeset(0): Modeline "640x480"x59.9   25.18  640 656 752 800  480 489 492 525 -hsync -vsync (31.5 kHz e)
+[    53.484] (II) modeset(0): EDID for output Virtual-2
+[    53.484] (II) modeset(0): EDID for output Virtual-3
+[    53.484] (II) modeset(0): EDID for output Virtual-4
+[    53.484] (II) modeset(0): EDID for output Virtual-5
+[    53.484] (II) modeset(0): EDID for output Virtual-6
+[    53.484] (II) modeset(0): EDID for output Virtual-7
+[    53.484] (II) modeset(0): EDID for output Virtual-8
+[    53.484] (II) modeset(0): Output Virtual-1 connected
+[    53.484] (II) modeset(0): Output Virtual-2 disconnected
+[    53.484] (II) modeset(0): Output Virtual-3 disconnected
+[    53.484] (II) modeset(0): Output Virtual-4 disconnected
+[    53.484] (II) modeset(0): Output Virtual-5 disconnected
+[    53.484] (II) modeset(0): Output Virtual-6 disconnected
+[    53.484] (II) modeset(0): Output Virtual-7 disconnected
+[    53.484] (II) modeset(0): Output Virtual-8 disconnected
+[    53.484] (II) modeset(0): Using exact sizes for initial modes
+[    53.484] (II) modeset(0): Output Virtual-1 using initial mode preferred +0+0
+[    53.484] (==) modeset(0): Using gamma correction (1.0, 1.0, 1.0)
+[    53.484] (==) modeset(0): DPI set to (96, 96)
+[    53.484] (II) Loading sub module "fb"
+[    53.484] (II) LoadModule: "fb"
+[    53.484] (II) Loading /usr/lib/xorg/modules/libfb.so
+[    53.484] (II) Module fb: vendor="X.Org Foundation"
+[    53.484] 	compiled for 1.19.3, module version = 1.0.0
+[    53.484] 	ABI class: X.Org ANSI C Emulation, version 0.4
+[    53.484] (==) Depth 24 pixmap format is 32 bpp
+[    53.484] (EE) modeset(0): drmSetMaster failed: Permission denied
+[    53.484] (EE) 
+Fatal server error:
+[    53.484] (EE) AddScreen/ScreenInit failed for driver 0
+[    53.484] (EE) 
+[    53.484] (EE) 
+Please consult the The X.Org Foundation support 
+	 at http://wiki.x.org
+ for help. 
+[    53.484] (EE) Please also check the log file at "/home/notclerk/.local/share/xorg/Xorg.1.log" for additional information.
+[    53.484] (EE) 
+[    53.486] (EE) Server terminated with error (1). Closing log file.

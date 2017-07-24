@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Craftsman Style Wallpaper | Arts &amp; Crafts Movement | Bradbury &amp; Bradbury</title>
+
+<meta name="description" content="In rich colors evocative of the Arts &amp; Crafts Movement, these wallpapers effortlessly enhance the warm tones in any type of wood found in Craftsman style homes.">
+<meta name="keyword" content="craftsman style, art wallpaper, nature wallpaper, flower wallpaper, floral wallpaper, english wallpaper, classic wallpaper, english wallpaper, craftsman style, craftsman design, craftsman interior, romantic wallpaper">
+<link href="fancybox/jquery.fancybox-1.3.1.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="styles_new_deco.css" rel="stylesheet" type="text/css" />
+<link href="nav.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="rotate_ad.css">	
+
+<link rel="shortcut icon" href="favicon.ico" />
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="fancybox/jquery.fancybox-1.3.1.js"></script>
+<script type="text/javascript" src="windows.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script src="jquery/jquery.easing.1.3.js"></script>
+<script src="jquery/slides.min.jquery.js"></script>
+<script>
+		$(function(){
+			$('#slides').slides({
+				effect: 'fade',
+				fadeSpeed: 1200,
+				pagination: false,
+        		generatePagination: false,
+				preload: true,
+				crossfade: true,
+				play: 6000
+			});
+		});
+	</script>
+<script type="text/javascript" src="nav.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5195113-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>
+  (function() {
+    var cx = '001568795471721489296:-l5otsaerko';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+</head>
+<body>
+<div id="container">
+  <!-- header divs -->
+  <div style="width: 990px; margin: 0px; padding: 0px;">
+  	
+  	<!--<img style="margin-bottom: 17px;" src="http://www.bradbury.com/images/cs-holiday-closure.gif" alt="" width="990" />-->
+  
+    <div style="float: left; width: 484px; height: 100px; border:0px solid #333333;"><a href="index.html"><img src="images/bradbury_logo_350.gif" alt="BRADBURY &amp; BRADBURY ART WALLPAPERS" width="350" height="90" /></a></div>
+    <div style="float: right; width: 500px; border:0px solid #333333;">
+      <div class="info_navigation" style="float: right; padding-right: 18px;">
+        <ul id="rednav-one" class="rednav">
+          <li style="width: 75px;"><a id="reach_pop" href="pop/reach_us.html">Customer Service</a></li>
+          <li style="width: 75px;"><a href="http://shop.bradbury.com/basket.asp">Shopping Basket</a></li>
+          <li style="width: 75px;"><a href="https://shop.bradbury.com/login.asp">My Account</a></li>
+          <li style="width: 65px; padding-right: 0px; margin-right: 0px;"><a href="email_list.html">Join our Email List</a></li>
+        </ul>
+      </div>
+      <div class="common_navigation" style="float: right; padding-right: 4px; padding-bottom: 14px;">
+        <ul id="commonnav-one" class="commonnav">
+          <li style="border-left: 0px;"><a href="index.html">Home</a></li>
+          <li><a href="services.html">Services</a>
+            <ul>
+              <li><a href="services.html">Design Service</a></li>
+              <li><a href="howtoorder.html">How to Order</a></li>
+              <li><a href="measure.html">How to Measure</a></li>
+              <li><a href="how_to_trim_wallpaper.html">How to Trim Wallpaper</a></li>
+              <li><a href="paper.html">Paper Installation Instructions</a></li>
+            </ul>
+          </li>
+          <li><a href="aboutus.html">About Us</a>
+            <ul>
+              <li><a href="aboutus.html">About Us</a></li>
+              <li><a href="contactus.html">Contact Us</a></li>
+              <li><a href="studio.html">Silk Screen Printing</a></li>
+            </ul>
+          </li>
+          <li><a href="faqs.html">FAQs</a></li>
+		<li style="border-left: 0px; margin-right: 6px;">
+				<form id="searchbox_001568795471721489296:-l5otsaerko" action="http://www.bradbury.com/results.html">
+				<input value="001568795471721489296:-l5otsaerko" name="cx" type="hidden" />
+				<input value="FORID:11" name="cof" type="hidden" />
+				<input class="gg" id="q" style="" name="q" size="25" type="text" />
+				<button class="btn">search</button>
+			</form>
+			  <div style="width:0px;overflow:hidden;height:0px;"><gcse:searchbox-only resultsUrl="http://bradbury.com/results.html"></gcse:searchbox-only></div>
+		</li>	
+		</ul>
+      </div>
+    </div>
+    <div id="main_left">
+      <!-- main body div 760 px wide-->
+      <div class="innerwrap_cart">
+        <div class="main_navigation_cart">
+          <ul id="nav-one" class="nav">
+            <li style="border-left: 0px;"><a href="frank_lloyd_wright.html">Frank Lloyd Wright <span style="color: #922a05; font:11px/14px verdana;"><b>NEW!</b></span></a></li>
+            <li><a href="japanese.html">Japanese</a></li>
+            <li><a href="victorian/victorian.html">Victorian</a>
+              <ul>
+                <li><a href="victorian/victorian.html">Victorian</a></li>
+                <li><a href="victorian/morris.html">The Morris Tradition</a></li>
+                <li><a href="victorian/aesthetic.html">The Aesthetic Movement</a></li>
+                <li><a href="victorian/dresser.html">The Dresser Tradition</a></li>
+                <li><a href="victorian/classicism.html">Victorian Classicism</a></li>
+                <li><a href="victorian/persian.html">Victorian Orientalism</a></li>
+                <li><a href="catalog.html">Victorian Catalog</a></li>
+              </ul>
+            </li>
+            <li><a href="ac.html">Arts &amp; Crafts</a>
+              <ul>
+                <li><a href="ac.html">Arts &amp; Crafts</a></li>
+                <li><a href="ac2_all.html">Arts &amp; Crafts II</a></li>
+                <li><a href="https://issuu.com/bradbury/docs/catalog_v2_export?e=0" target="_blank">Arts &amp; Crafts Catalog</a></li>
+              </ul>
+            </li>
+            
+            <li><a href="modernism.html">Modernism</a>
+              <ul>
+                <li><a href="modernism.html">Modernism</a></li>
+                <li><a href="artdeco_all.html">Art Deco</a></li>
+                <li><a href="postwar.html">Post-War Era</a></li>
+                <li><a href="atomic.html">Atomic Age</a></li>
+                <li><a href="sixties.html">The Mod Generation</a></li>
+              </ul>
+            </li>
+            <li><a href="damasks.html">Damasks</a></li>
+            <li><a href="posters.html">Art Posters</a></li>
+            <li style="border-right: 1px solid #d0c6b3;"><a href="art-deco-fabric.html">Fabric</a>
+				<ul>
+					<li><a href="art-deco-fabric.html">Fabric</a></li>
+					<li><a href="lace.html">Lace</a></li>
+				</ul>	
+            </li>
+        </div>
+        <!-- subhead area with daisy chain -->
+		<div class="subhead_area">
+			<div class="main_header_left">
+            <h1><a href="ac.html">Arts &amp; Crafts</a></h1>
+          </div>
+          <div class="main_header_right"><a class="bread" href="index.html">Home</a> &gt; Arts &amp; Crafts Wallpapers</div>
+        </div>
+        <!-- secondary nav -->
+       <div class="secondary_nav" style="border-top: 1px solid #d9d1c2; width: 980px;">
+			<ul id="b_nav-one" class="b_nav">
+				<li style="border-left: 0px; width: 110px;"><a href="ac2_all.html">Arts &amp; Crafts II</a></li>
+				<li style="width: 100px; border-right: 1px solid #d0c6b3;"><a href="productlist.html">Product List</a></li>
+			</ul>
+		</div>	
+        <!-- div for content table -->
+        <div class="bordertop_body_cart" style="padding-top: 20px;">
+            	<div id="container2">
+					<div id="slides">
+						<div class="slides_container">
+							<img src="images/ac_slide_0.jpg" width="940" height="500" alt="" />
+							<img src="images/ac_slide_4.jpg" width="940" height="500" alt="" />
+							<img src="images/ac_slide_2.jpg" width="940" height="500" alt="" />
+							<img src="images/ac_slide_3.jpg" width="940" height="500" alt="" />
+							<img src="images/ac_slide_6.jpg" width="940" height="500" alt="" />
+							<img src="images/ac_slide_7.jpg" width="940" height="500" alt="" />
+							<img src="images/ac_slide_5.jpg" width="940" height="500" alt="" />
+							<img src="images/ac_slide_1.jpg" width="940" height="500" alt="" />
+							<img src="images/ac_slide_8.jpg" width="940" height="500" alt="" />
+							<img src="images/ac_slide_11.jpg" width="940" height="500" alt="" />
+							<img src="images/ac_slide_9.jpg" width="940" height="500" alt="" />
+							<img src="images/ac_slide_10.jpg" width="940" height="500" alt="" />
+						</div>
+						<a href="#" class="prev"><img src="images/arrow-prev.png" width="24" height="550" alt="Arrow Prev"></a>
+						<a href="#" class="next"><img src="images/arrow-next.png" width="24" height="550" alt="Arrow Next"></a>
+					</div>
+				</div>
+                
+                <div style="font-size: 13px; line-height: 20px; color: #444444; padding: 9px 20px 4px 20px;">
+                <!--Our collection of hand-printed wallpapers needs some kind of a blurb here!<br />
+                <br />-->
+                <b>Friezes</b></div>
+				<div class="thirds"><a href="kraft_appletree.html"><img src="images/kraft_appletree_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="for_appletree.html"><img src="images/for_appletree_50.jpg" /></a>
+					<a href="thatch_appletree.html"><img src="images/thatch_appletree_50.jpg" /></a>
+					<a href="apf_940_ochre.html"><img src="images/apf_940_ochre_50.jpg" /></a>
+					<a href="apf_945_olive.html"><img src="images/apf_945_olive_50.jpg" /></a>
+					<a href="apf_925_sienna.html"><img src="images/apf_925_sienna_50.jpg" /></a></div>
+					<p><a href="kraft_appletree.html">Apple Tree Frieze</a></p>
+            	</div> 
+            	
+            	<div class="thirds"><a href="for_arcadia.html"><img src="images/for_arcadia_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="kraft_arcadia.html"><img src="images/kraft_arcadia_50.jpg" /></a>
+					<a href="thatch_arcadia.html"><img src="images/thatch_arcadia_50.jpg" /></a></div>
+					<p><a href="for_arcadia.html">Arcadia Border</a></p>
+            	</div> 
+            	
+            	<div class="thirds">
+            		<a href="for_birchwood.html"><img src="images/for_birch_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="kraft_birchwood.html"><img src="images/kraft_birchwood_50.jpg" /></a>
+					<a href="thatch_birchwood.html"><img src="images/thatch_bir_100.jpg" /></a>
+					</div>
+					<p><a href="for_birchwood.html">Birchwood Frieze</a></p>
+            	</div>
+            	<div style="clear: both"></div>
+            	<div class="thirds"><a href="kraft_burnaby_fr.html"><img src="images/kraft_burnaby_fr_400.jpg" /></a>
+					<div class="thirds_th"><a href="thatch_burnaby_fr.html"><img src="images/thatch_burnaby_fr_50.jpg" /></a>
+					<a href="for_burnaby_fr.html"><img src="images/for_burnaby_fr_50.jpg" /></a></div>
+					<p><a href="kraft_burnaby_fr.html">Burnaby Frieze</a></p>
+            	</div>
+            	
+            	<div class="thirds"><a href="kraft_firtree.html"><img src="images/kraft_firtree_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="for_firtree.html"><img src="images/for_firtree_50.jpg" /></a></div>
+					<p><a href="kraft_firtree.html">Fir Tree Frieze</a></p>
+            	</div>
+            	<div class="thirds"><a href="lion_dove.html"><img src="images/lion_dove_gold_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="lion_dove.html"><img src="images/lion_dove_blue_50.jpg" /></a></div>
+					<p><a href="lion_dove.html">Lion and Dove</a></p>
+            	</div> 
+            	
+            	
+            	<div class="thirds"><a href="kraft_oakleaf_fr.html"><img src="images/kraft_oakleaf_fr_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="for_oakleaf_fr.html"><img src="images/for_oakleaf_fr_50.jpg" /></a>
+					<a href="thatch_oakleaf_fr.html"><img src="images/thatch_oakleaf_50.jpg" /></a>
+					<a href="okf_940_ochre.html"><img src="images/okf_940_ochre_50.jpg" /></a>
+					<a href="okf_945_olive.html"><img src="images/okf_945_olive_50.jpg" /></a>
+					<a href="okf_925_sienna.html"><img src="images/okf_925_sienna_50.jpg" /></a>
+					</div>
+					<p><a href="kraft_oakleaf_fr.html">Oakleaf Frieze</a></p>
+            	</div> 
+            	<div class="thirds"><a href="for_prairie.html"><img src="images/for_prairie_400.jpg" /></a>
+					<div class="thirds_th">
+				 	<a href="kraft_prairie.html"><img src="images/kraft_prairie_50.jpg" /></a>
+					<a href="thatch_prairie.html"><img src="images/thatch_prairie_50.jpg" /></a>
+					<a href="prf_945_olive.html"><img src="images/prf_945_olive_50.jpg" /></a>
+					<a href="prf_940_ochre.html"><img src="images/prf_940_ochre_50.jpg" /></a>
+					<a href="prf_925_sienna.html"><img src="images/prf_925_sienna_50.jpg" /></a>
+					</div>
+					<p><a href="for_prairie.html">Prairie Frieze</a></p>
+            	</div> 
+            	<div class="thirds"><a href="newbury_sale.html"><img src="images/sale_bug_newbury.gif" /></a>
+
+            	</div>  
+            	           	
+            <div style="clear: both"></div>
+            
+            	<div style="font-size: 13px; line-height: 20px; color: #444444; padding: 9px 20px 4px 20px;">
+                <b>Borders</b></div>
+                
+                <div class="thirds">
+                	<a href="kraft_appletree.html"><img src="images/kraft_appletr_bord_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="for_appletree.html"><img src="images/for_appletr_bord_50.jpg" /></a>
+					<a href="thatch_appletree.html"><img src="images/thatch_appletr_bord_50.jpg" /></a>
+					<a href="apf_940_ochre.html"><img src="images/apb_940_ochre_50.jpg" /></a>
+					<a href="apf_945_olive.html"><img src="images/apb_945_olive_50.jpg" /></a>
+					<a href="apf_925_sienna.html"><img src="images/apb_925_sienna_50.jpg" /></a></div>
+					<p><a href="kraft_appletree.html">Apple Tree Border</a></p>
+            	</div> 
+            	                        	             	
+            	<div class="thirds">
+	                <a href="kraft_oakleaf_fr.html"><img src="images/kraft_oakleaf_brdr_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="for_oakleaf_fr.html"><img src="images/for_oakleaf_brdr_50.jpg" /></a>
+					<a href="thatch_oakleaf_fr.html"><img src="images/thatch_oakleaf_brdr_50.jpg" /></a>
+					<a href="okf_940_ochre.html"><img src="images/okb_940_ochre_50.jpg" /></a>
+					<a href="okf_945_olive.html"><img src="images/okb_945_olive_50.jpg" /></a>
+					<a href="okf_925_sienna.html"><img src="images/okb_925_sienna_50.jpg" /></a>
+					</div>
+					<p><a href="kraft_oakleaf_fr.html">Oakleaf Border</a></p>
+            	</div> 
+                	                        	             	
+            	<div class="thirds">
+					<a href="thatch_piedmont.html"><img src="images/thatch_piedmont_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="for_piedmont.html"><img src="images/for_piedmont_50.jpg" /></a>
+					<a href="kraft_piedmont.html"><img src="images/kraft_piedmont_50.jpg" /></a></div>
+					<p><a href="thatch_piedmont.html">Piedmont Border</a></p>
+				</div> 
+				<div style="clear: both"></div>
+            	<div class="thirds">	
+					<a href="thatch_thornberry.html"><img src="images/thatch_thornberry_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="for_thornberry.html"><img src="images/for_thornberry_50.jpg" /></a>
+					<a href="kraft_thornberry.html"><img src="images/kraft_thornberry_50.jpg" /></a></div>
+					<p><a href="thatch_thornberry.html">Thornberry Border</a></p>	
+				</div> 
+            	
+            	<div class="thirds">	
+					<a href="kraft_vienna.html"><img src="images/kraft_viennachk_400.jpg" /></a>
+					<div class="thirds_th"><a href="for_vienna.html"><img src="images/for_viennachk_50.jpg" /></a></div>
+					<p><a href="kraft_vienna.html">Vienna Check Border</a></p>
+				</div> 
+            	
+            	
+				<div style="clear: both"></div>
+            
+            	<div style="font-size: 13px; line-height: 20px; color: #444444; padding: 9px 20px 4px 20px;">
+                	<b>Wall Fills</b></div>          	 
+            	 
+            	 <div class="thirds"><a href="kraft_alise.html"><img src="images/kraft_alise_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="for_alise.html"><img src="images/for_alise_50.jpg" /></a></div>
+					<p><a href="kraft_alise.html">Alise</a></p></div>
+					
+				<div class="thirds"><a href="for_avalon.html"><img src="images/for_avalon_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="kraft_avalon.html"><img src="images/kraft_avalon_br_50.jpg" /></a>
+					<a href="kraft_avalon.html"><img src="images/kraft_avalon_gr_50.jpg" /></a>
+					<a href="thatch_avalon.html"><img src="images/thatch_avalon_pc_50.jpg" /></a>
+					<a href="thatch_avalon.html"><img src="images/thatch_avalon_gr_50.jpg" /></a></div>
+					<p><a href="for_avalon.html">Avalon</a></p></div>
+					
+				<div class="thirds"><a href="kraft_briar.html"><img src="images/kraft_briar_400.jpg" /></a>
+					<div class="thirds_th"></div>
+					<p><a href="kraft_briar.html">Briar Rose</a></p></div>
+
+            	<div style="clear: both"></div>
+
+				<div class="thirds"><a href="thatch_burnaby.html"><img src="images/thatch_burnaby_fill_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="for_burnaby.html"><img src="images/for_burnaby_fill_50.jpg" /></a>
+					<a href="kraft_burnaby.html"><img src="images/kraft_burnaby_fill_50.jpg" /></a></div>
+					<p><a href="thatch_burnaby.html">Burnaby</a></p></div>
+					
+				<div class="thirds"><a href="kraft_child.html"><img src="images/kraft_child_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="for_child.html"><img src="images/for_child_50.jpg" /></a></div>
+					<p><a href="kraft_child.html">Childs Garden</a></p></div>			
+					
+				<div class="thirds"><a href="for_glenwood.html"><img src="images/for_glenwood_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="kraft_glenwood.html"><img src="images/kraft_glenwood_br_50.jpg" /></a>
+					<a href="kraft_glenwood.html"><img src="images/kraft_glenwood_gr_50.jpg" /></a>
+					<a href="thatch_glenwood.html"><img src="images/thatch_glenwood_pc_50.jpg" /></a>
+					<a href="thatch_glenwood.html"><img src="images/thatch_glenwood_gr_50.jpg" /></a>
+					<a href="glw_940_ochre.html"><img src="images/glw_940_ochre_50.jpg" /></a>
+					<a href="glw_945_olive.html"><img src="images/glw_945_olive_50.jpg" /></a>
+					<a href="glw_925_sienna.html"><img src="images/glw_925_sienna_50.jpg" /></a></div>					
+					<p><a href="for_glenwood.html">Glenwood</a></p></div>
+				
+            	<div style="clear: both"></div>
+
+				<div class="thirds"><a href="hsw_900_ruby.html"><img src="images/hsw_900_ruby_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="hsw_940_ochre.html"><img src="images/hsw_940_ochre_50.jpg" /></a></div>					
+					<p><a href="hsw_900_ruby.html">Honeysuckle</a></p></div>	
+				
+				<div class="thirds"><a href="kraft_marigold.html"><img src="images/kraft_marigold_gr_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="kraft_marigold.html"><img src="images/kraft_marigold_br_50.jpg" /></a>
+					<a href="for_marigold.html"><img src="images/for_marigold_50.jpg" /></a>
+					<a href="maw_940_ochre.html"><img src="images/maw_940_ochre_50.jpg" /></a>
+					<a href="maw_945_olive.html"><img src="images/maw_945_olive_50.jpg" /></a>
+					<a href="maw_925_sienna.html"><img src="images/glw_940_ochre_50.jpg" /></a></div>					
+					<p><a href="kraft_marigold.html">Marigold</a></p></div>		
+					
+            	
+				<div class="thirds"><a href="for_savaric.html"><img src="images/for_savaric_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="kraft_savaric.html"><img src="images/kraft_savaric_br_50.jpg" /></a>
+					<a href="kraft_savaric.html"><img src="images/kraft_savaric_gr_50.jpg" /></a></div>					
+					<p><a href="for_savaric.html">Savaric</a></p></div>											
+					
+				<div class="thirds"><a href="kraft_spring.html"><img src="images/kraft_spring_br_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="kraft_spring.html"><img src="images/kraft_spring_gr_50.jpg" /></a>
+					<a href="for_spring.html"><img src="images/for_spring_50.jpg" /></a>
+					<a href="thatch_spring.html"><img src="images/thatch_spring_pc_50.jpg" /></a>
+					<a href="thatch_spring.html"><img src="images/thatch_spring_gr_50.jpg" /></a>
+					<a href="ssw_940_ochre.html"><img src="images/ssw_940_ochre_50.jpg" /></a>
+					<a href="ssw_945_olive.html"><img src="images/ssw_945_olive_50.jpg" /></a>
+					<a href="ssw_925_sienna.html"><img src="images/ssw_925_sienna_50.jpg" /></a></div>					
+					<p><a href="kraft_spring.html">Springfield Stripe</a></p></div>		 			
+
+				<div class="thirds"><a href="for_thistle.html"><img src="images/for_thistle_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="kraft_thistle.html"><img src="images/kraft_thistle_50.jpg" /></a></div>
+					<p><a href="for_thistle.html">Thistle</a></p></div>	
+            </div>
+            
+            
+            
+            	<div style="clear: both"></div>
+            	<div style="font-size: 13px; line-height: 20px; color: #444444; padding: 9px 20px 4px 20px;">
+                	<b>Ceiling Fills</b></div>
+            	 
+    			<div class="thirds"><a href="thatch_burnaby_ceil.html"><img src="images/thatch_burnabyceil_400.jpg" /></a>
+					<p><a href="thatch_burnaby_ceil.html">Burnaby Ceiling</a></p></div>	
+
+				<div class="thirds"><a href="circlet.html"><img src="images/circlet_thatch_400.jpg" /></a>
+					<div class="thirds_th">
+					<a href="circlet.html"><img src="images/circlet_natural_50.jpg" /></a></div>
+					<p><a href="circlet.html">Circlet Ceiling</a></p></div>		
+
+    			<div class="thirds"><a href="faux_burlap.html"><img src="images/faux_burlap_400.jpg" /></a>
+					<p><a href="faux_burlap.html">Faux Burlap Ceiling</a></p></div>										
+
+            
+      </div>
+      <!-- footer stuff -->
+      <div style="width: 760px;">
+        <div class="mainliinset">Though every effort has been made, photographs cannot accurately recreate the effects of metallic inks and flat oil pigments. Samples are available to assist in color matching.</div>
+        <div class="footer">
+          <div id="footerlink">
+            <ul>
+              <li><a href="privacy.html">Privacy</a></li>
+              <li> | </li>
+              <li><a href="terms.html">Terms and Conditions</a></li>
+              <li> | </li>
+              <li><a href="returns.html">Return Policy</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer">&copy; 2017 Bradbury &amp; Bradbury Art Wallpapers. All rights reserved.</div>
+      </div>
+    </div>
+    
+</div>
+<script type="text/javascript">
+    adroll_adv_id = "OKSVYO2MHRECHCKT6GZKB7";
+    adroll_pix_id = "NQW4FLMCV5FY3KTIHTA2AJ";
+    /* OPTIONAL: provide email to improve user identification */
+    /* adroll_email = "customerservice@bradbury.com"; */
+    (function () {
+        var _onload = function(){
+            if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+            if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
+    }());
+</script>
+</body>
+</html>Ý|úž`ç      Yu®ÉYu®Õ><¡Yu®Ê        :http://www.bradbury.com/ac.html necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Mon, 24 Jul 2017 03:24:41 GMT
+Content-Type: text/html
+Content-Length: 24676
+Server: Apache/2
+Last-Modified: Tue, 23 May 2017 20:13:20 GMT
+Etag: "6064-550369e7a19f0"
+Accept-Ranges: bytes
+Cache-Control: max-age=3600
+Expires: Mon, 24 Jul 2017 04:24:42 GMT
+Age: 1
+ original-response-headers Date: Mon, 24 Jul 2017 03:24:41 GMT
+Content-Type: text/html
+Content-Length: 24676
+Connection: keep-alive
+Server: Apache/2
+Last-Modified: Tue, 23 May 2017 20:13:20 GMT
+Etag: "6064-550369e7a19f0"
+Accept-Ranges: bytes
+Cache-Control: max-age=3600
+Expires: Mon, 24 Jul 2017 04:24:42 GMT
+Age: 1
+ uncompressed-len 0 predictor::resource-count 100 predictor::http://www.bradbury.com/images/prf_940_ochre_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/prf_925_sienna_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/sale_bug_newbury.gif 1,1,1500884681,4096 net-response-time-onstart 538 net-response-time-onstop 721 predictor::http://www.bradbury.com/images/kraft_appletr_bord_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/for_appletr_bord_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/thatch_appletr_bord_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/apb_940_ochre_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/apb_945_olive_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/apb_925_sienna_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_oakleaf_brdr_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/for_oakleaf_brdr_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/thatch_oakleaf_brdr_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/okb_940_ochre_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/okb_945_olive_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/okb_925_sienna_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/thatch_piedmont_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/for_piedmont_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_piedmont_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/thatch_thornberry_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/for_thornberry_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_thornberry_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_viennachk_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/for_viennachk_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_alise_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/for_alise_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/for_avalon_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_avalon_br_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_avalon_gr_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/thatch_avalon_pc_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/thatch_avalon_gr_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_briar_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/thatch_burnaby_fill_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/for_burnaby_fill_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_burnaby_fill_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_child_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/for_child_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/for_glenwood_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_glenwood_br_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_glenwood_gr_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/thatch_glenwood_pc_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/thatch_glenwood_gr_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/glw_940_ochre_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/glw_945_olive_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/glw_925_sienna_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/hsw_900_ruby_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/hsw_940_ochre_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_marigold_gr_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_marigold_br_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/for_marigold_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/maw_940_ochre_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/maw_945_olive_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/for_savaric_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_savaric_br_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_savaric_gr_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_spring_br_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_spring_gr_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/for_spring_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/thatch_spring_pc_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/thatch_spring_gr_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/ssw_940_ochre_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/ssw_945_olive_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/ssw_925_sienna_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/for_thistle_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/kraft_thistle_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/thatch_burnabyceil_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/circlet_thatch_400.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/circlet_natural_50.jpg 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/faux_burlap_400.jpg 1,1,1500884681,4096 predictor::http://www.google-analytics.com/analytics.js 1,1,1500884681,4096 predictor::http://cse.google.com/cse.js?cx=001568795471721489296:-l5otsaerko 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/background.gif 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/body_background.gif 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/background_for_css_nav.gif 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/header_bkgr.gif 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/ac_slide_0.jpg?1500884683191 1,1,1500884681,4096 predictor::http://www.bradbury.com/images/loading.gif 1,1,1500884681,4096 predictor::http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22search%22%2C%22version%22%3A%221.0%22%2C%22callback%22%3A%22__gcse.scb%22%2C%22style%22%3A%22http%3A%2F%2Fwww.google.com%2Fcse%2Fstatic%2Fstyle%2Flook%2Fv2%2Fdefault.css%22%2C%22language%22%3A%22en%22%7D%5D%7D 1,1,1500884681,4096 predictor::http://www.google-analytics.com/r/collect?v=1&_v=j56&a=74597102&t=pageview&_s=1&dl=http%3A%2F%2Fwww.bradbury.com%2Fac.html&dr=https%3A%2F%2Fwww.google.ru%2F&ul=en-us&de=windows-1251&dt=Craftsman%20Style%20Wallpaper%20%7C%20Arts%20%26%20Crafts%20Movement%20%7C%20Bradbury%20%26%20Bradbury&sd=24-bit&sr=1920x1080&vp=1899x983&je=0&_u=IEBAAEABI~&jid=377489317&gjid=2021177736&cid=348679523.1500884684&tid=UA-5195113-1&_gid=60472928.1500884684&_r=1&z=1280136478 1,1,1500884681,4096 predictor::https://www.google.com/uds/api/search/1.0/4f0e4d5d7dc9efa79ab5cf95d689a1bc/default+en.css 1,1,1500884681,4096 predictor::http://www.google.com/cse/static/style/look/v2/default.css 1,1,1500884681,4096 predictor::https://www.google.com/uds/api/search/1.0/4f0e4d5d7dc9efa79ab5cf95d689a1bc/default+en.I.js 1,1,1500884681,4096 predictor::https://www.googleapis.com/generate_204 1,1,1500884681,4096 predictor::http://cse.google.com/adsense/search/async-ads.js 1,1,1500884681,4096 predictor::https://www.google.com/uds/css/v2/search_box_icon.png 1,1,1500884681,4096 predictor::https://www.google.com/cse/static/images/1x/googlelogo_grey_46x15dp.png 1,1,1500884681,4096 predictor::https://www.google.com/uds/css/clear.gif 1,1,1500884681,4096 predictor::http://clients1.google.com/generate_204 1,1,1500884681,4096 predictor::http://a.adroll.com/j/roundtrip.js 1,1,1500884681,4096 predictor::https://d.adroll.com/pixel/OKSVYO2MHRECHCKT6GZKB7/NQW4FLMCV5FY3KTIHTA2AJ?pv=7612019687.37375&cookie=&adroll_s_ref=https%3A//www.google.ru/&keyw=&arrfrr=http%3A%2F%2Fwww.bradbury.com%2Fac.html 1,1,1500884681,4096 predictor::http://connect.facebook.net/en_US/fbevents.js 1,1,1500884681,4096 predictor::https://d.adroll.com/cm/r/out 1,1,1500884681,4096 predictor::https://d.adroll.com/cm/f/out 1,1,1500884681,4096 predictor::https://d.adroll.com/cm/b/out 1,1,1500884681,4096 predictor::https://d.adroll.com/cm/w/out 1,1,1500884681,4096 predictor::https://d.adroll.com/cm/x/out 1,1,1500884681,4096 predictor::https://d.adroll.com/cm/l/out 1,1,1500884681,4096 predictor::https://d.adroll.com/cm/o/out 1,1,1500884681,4096 predictor::https://d.adroll.com/cm/g/out?google_nid=adroll5 1,1,1500884681,4096 predictor::http://connect.facebook.net/signals/config/1738506793077342?v=2.7.18 1,1,1500884681,4096 predictor::https://www.facebook.com/tr/?id=1738506793077342&ev=PageView&dl=http%3A%2F%2Fwww.bradbury.com%2Fac.html&rl=https%3A%2F%2Fwww.google.ru%2F&if=false&ts=1500884693061&cd[segment_eid]=LRLAYWPCW5GLLAXBI767PC&v=2.7.18&ec=0&o=29 1,1,1500884681,4096   `d

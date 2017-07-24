@@ -1,0 +1,48 @@
+{
+   "checksum": "be44d27d89eabda7bcd94b5e6c2261f7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13144738685448457",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13144949849970578"
+            },
+            "name": "bspwm (Русский) - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/index.php/Bspwm_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)"
+         }, {
+            "date_added": "13145230168617060",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13145230934445672"
+            },
+            "name": "ix.io/yDk",
+            "type": "url",
+            "url": "http://ix.io/yDk"
+         } ],
+         "date_added": "13144738610941159",
+         "date_modified": "13145230168617060",
+         "id": "1",
+         "name": "Панель закладок",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13144738610941167",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Другие закладки",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13144738610941168",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Закладки на мобильном",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
